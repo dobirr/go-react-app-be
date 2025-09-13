@@ -1,0 +1,48 @@
+# Umgebungsdateien
+.env
+
+# Node.js (falls vorhanden)
+node_modules/
+
+# Go Build-Artefakte
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+*.o
+*.a
+
+# Go-Cache und temporäre Ordner
+bin/
+tmp/
+_obj/
+_test/
+
+# Abhängigkeitsverzeichnisse
+vendor/
+
+# Logs
+*.log
+
+# IDEs und Editoren
+.idea/
+.vscode/
+*.swp
+
+# macOS-spezifisch
+.DS_Store
+
+# Coverage-Dateien
+*.coverprofile
+*.cov
+*.coverage
+*.cover
+*.gcov
+*.lcov
+*.prof
+
+# Sonstiges
+*.tmp
